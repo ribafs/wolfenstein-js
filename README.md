@@ -1,5 +1,7 @@
 # Wolfenstein 3D
 
+## Funciona na pasta do web server
+
 A *JavaScript* rewriting of the original Wolfenstein 3D (1992) engine.
 
 [Link to result](https://vpoupet.github.io/wolfenstein/game.html)
